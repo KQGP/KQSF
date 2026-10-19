@@ -1,0 +1,14 @@
+﻿# Firmware / build
+*.elf
+*.hex
+*.bin
+
+# Python gateway
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
