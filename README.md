@@ -47,6 +47,3 @@ cd app
 flutter pub get
 flutter run
 ```
-
-## 📄 License
-No license specified.
